@@ -131,20 +131,3 @@ This project demonstrates practical backend development skills using FastAPI, RE
 This project is for educational purposes.
 
 
----
-
-# 🚀 HOW TO UPDATE README ON GITHUB
-
-After saving `README.md`, run these commands in VS Code terminal:
-
-```bash
-git add README.md
-git commit -m "Update README with project details"
-git push origin master
-
-(or main if your branch is main)
-
-
-
-
-
