@@ -31,39 +31,9 @@ The system supports:
 
 ## 📂 Project Structure
 
+<img width="768" height="813" alt="image" src="https://github.com/user-attachments/assets/703211c7-1b7a-4bf9-863c-22101f351d85" />
 
 
-
-employee-task-manager/
-│
-├── app/                     # Main backend application
-│   ├── __init__.py
-│   ├── main.py              # FastAPI app entry point
-│   ├── database.py          # Database connection (SQLite)
-│   ├── models.py            # Database models (tables)
-│   ├── schemas.py           # Pydantic schemas (request/response)
-│   └── routes/              # API route modules
-│       ├── __init__.py
-│       ├── employee.py      # Employee APIs
-│       ├── task.py          # Task APIs
-│       └── issue.py         # Issue logging APIs
-│
-├── cli/                     # Command Line Interface
-│   ├── __init__.py
-│   └── cli.py               # CLI commands for employees/tasks
-│
-├── frontend/                # Simple frontend (optional)
-│   └── index.html
-│
-├── tests/                   # Test cases (optional)
-│
-├── requirements.txt         # Project dependencies
-├── .gitignore               # Ignored files (venv, db, cache)
-├── README.md                # Project documentation
-└── employee.db              # SQLite database (ignored by git)
-
-
----
 
 ## ⚙️ Installation & Setup
 
