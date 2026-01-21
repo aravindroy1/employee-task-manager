@@ -118,16 +118,10 @@ Cloud database integration
 
 Dashboard and analytics
 
-👨‍💻 Team Members
-Aravind 
-
-Thanusri Karuturi
 
 ✅ Conclusion
 This project demonstrates practical backend development skills using FastAPI, REST APIs, and database integration, making it suitable for academic and real-world applications.
 
 
-📎 License
-This project is for educational purposes.
 
 
